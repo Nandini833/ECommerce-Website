@@ -1,8 +1,6 @@
 import React from 'react'
 import Slider from "react-slick";
-import Image1 from '../Images/Image1.png';
-
-// import Image1 from "../Images/Image1.png"
+import Image1 from "../Images/image1.png"
 import Image2 from "../Images/Image2.png"
 import Image3 from "../Images/Image3.png"
 import Button from '../Shared/Button';
@@ -16,7 +14,6 @@ const HeroData=[
         title2:'HeadPhones',
         description:
         "Lorem His Life will forever be Changed Doller sit amet, His Life will forever be Changed Doller sit amet, His Life will forever be Changed Doller sit amet, His Life will forever be Changed Doller sit amet, His Life will forever be Changed Doller sit amet.",
-
     },
     {
         id:2,
@@ -26,7 +23,6 @@ const HeroData=[
         title2:'HeadPhoneVirtual',
         description:
         "Lorem His Life will forever be Changed Doller sit amet, His Life will forever be Changed Doller sit amet, His Life will forever be Changed Doller sit amet, His Life will forever be Changed Doller sit amet, His Life will forever be Changed Doller sit amet.",
-
     },
     {
         id:3,
@@ -36,7 +32,6 @@ const HeroData=[
         title2:'LapTops',
         description:
         "Lorem His Life will forever be Changed Doller sit amet, His Life will forever be Changed Doller sit amet, His Life will forever be Changed Doller sit amet, His Life will forever be Changed Doller sit amet, His Life will forever be Changed Doller sit amet.",
-
     }
 ]
 const Hero = ({handleOrderPopUp}) => {
