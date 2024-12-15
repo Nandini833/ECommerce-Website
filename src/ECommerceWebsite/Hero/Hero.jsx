@@ -1,12 +1,6 @@
 import React from 'react'
 import Slider from "react-slick";
-<<<<<<< HEAD
 import Image1 from "../Images/image1.png"
-=======
-import Image1 from '../Images/Image1.png';
-
-// import Image1 from "../Images/image1.png"
->>>>>>> 0b8f830eb94356de05e57ea55eea7dda817e4375
 import Image2 from "../Images/Image2.png"
 import Image3 from "../Images/Image3.png"
 import Button from '../Shared/Button';
